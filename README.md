@@ -18,7 +18,7 @@
 -   classification: graphs of classification results (outputs of Main code)
 
 ## Instructions of Main code
-    This code is divided in 7 sections signaled with '#%%'.
+    This code (ie. MMC_Less_Feats.py) is divided in 7 sections signaled with '#%%'.
 -   1.Loading Data and preprocessing:
     Here the data file (eg. allCaracTraining.dat) and indices file (eg. I_ind_18.txt) are loaded. The data is preprocessed by dropping desired classes and feature and being scaled.
 -   2.Functions:
