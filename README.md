@@ -2,7 +2,7 @@
 ## Files:  
 -   README.MD: This file
 -   MMC_Less_Feats.py: The main file with the implemented code
--   FI_ind_18.txt: Example file with indices of features order by highest importance
+-   FI_ind_18.txt: Example file with indices of features ordered by highest importance
 -   allCaracTraining.dat: Example file with data to run the algorithm
 -   Informe.txt: Example of the output file with summary of classifiers.  
     Structure:  
