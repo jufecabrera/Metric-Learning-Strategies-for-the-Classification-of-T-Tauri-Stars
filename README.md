@@ -5,12 +5,12 @@
 -   FI_ind_18.txt: Example file with indices of features order by highes importance
 -   allCaracTraining.dat: Example file with data to run the algorithm
 -   Informe.txt: Example of the output file with summary of classifiers.
-    Structure:
+    Structure:  
     {Classifier}_acc{#of features}    {Hyperparameter: value}    {accuracy_score} {cohen_kappa_score}    
-    {recall_score}(1st feature)
-    {recall_score}(2nd feature)
-    ...
-    ..
+    {recall_score}(1st feature)  
+    {recall_score}(2nd feature)  
+    ...  
+    ..  
     .
 ## Directories:
 -   img: Images of data visualized in 3 dimensions
