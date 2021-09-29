@@ -4,7 +4,7 @@
 -   MMC_Less_Feats.py: The main file with the implemented code
 -   FI_ind_18.txt: Example file with indices of features order by highest importance
 -   allCaracTraining.dat: Example file with data to run the algorithm
--   Informe.txt: Example of the output file with summary of classifiers.
+-   Informe.txt: Example of the output file with summary of classifiers.  
     Structure:  
     {Classifier}_acc{#of features}    {Hyperparameter: value}    {accuracy_score} {cohen_kappa_score}    
     {recall_score}(1st feature)  
