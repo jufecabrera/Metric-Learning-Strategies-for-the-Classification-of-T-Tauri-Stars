@@ -27,7 +27,7 @@
     The optimization for the metric is done for set of features, starting by defining the sets and followed by minimizing the objective function.
 -   4.Applying Metrics:
     Obtained metrics are saved to an output file called 'metricas.txt' and then are applied to the data to transform it.
--   5.Clustering Acuracies calculation:
+-   5.Clustering Accuracies calculation:
     This section simply takes the transformed data and calculates the clustering accuracy A_c for each set.
 -   6.Plots:
     In this section, the original data and the transformed sets are plotted on their first 3 dimensions. An .mp4 animation like those found on directory 'vid' is created.
