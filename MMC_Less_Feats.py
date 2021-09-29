@@ -157,7 +157,7 @@ for i in matrices:
     matn=matn-1
     indices=indices[:-1]
 
-#%% 5.Clustering Acuracies calculation ###########################
+#%% 5.Clustering Accuracies calculation ###########################
 ##################################################################
 acc=[]
 for i in X_mets:
