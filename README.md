@@ -32,4 +32,4 @@
 -   6.Plots:
     In this section, the original data and the transformed sets are plotted on their first 3 dimensions. An .mp4 animation like those found on directory 'vid' is created.
 -   7.Classification:
-    Finally, classifier of types DT, KNN and RF are defined and trained for each set of data. The resultant classifiers are saved in .pkl files, a summary is written  to the file 'metricas.txt' and performance graphs like those on directory 'classification' are created.
+    Finally, classifiers of types DT, KNN and RF are defined and trained for each set of data. The resultant classifiers are saved in .pkl files, a summary is written  to the file 'metricas.txt' and performance graphs like those on directory 'classification' are created.
